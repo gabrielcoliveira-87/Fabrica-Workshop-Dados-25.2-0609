@@ -1,0 +1,14 @@
+TIPOS DE DADO.
+
+Mais usados e simples
+
+FLOAT = números com porcetagem por exemplo 2.5
+
+INTEGER = número inteiro
+
+REAL = número real
+
+TEXT = texto com caracters
+
+
+Outros que ainda não usei 
